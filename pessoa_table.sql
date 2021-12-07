@@ -1,0 +1,5 @@
+CREATE TABLE pessoa (
+	nome VARCHAR(40) NOT NULL,
+	cpf VARCHAR(40) NOT NULL CONSTRAINT cpf PRIMARY KEY,
+	data_nascimento DATE NOT NULL,
+);
