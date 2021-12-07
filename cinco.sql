@@ -1,0 +1,1 @@
+SELECT COUNT(cod_corrida) FROM corridas.corrida WHERE valor_pago <= 10;

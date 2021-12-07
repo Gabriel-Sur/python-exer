@@ -1,0 +1,1 @@
+SELECT * FROM corridas.corrida 	WHERE cod_cliente = 1;

@@ -1,0 +1,1 @@
+SELECT cod_cliente, data_hora, origem, destino, valor_pago FROM corridas.corrida;

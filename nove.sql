@@ -1,0 +1,1 @@
+Select * from corridas.cliente where nome_completo = 'Pedro Sanchez'

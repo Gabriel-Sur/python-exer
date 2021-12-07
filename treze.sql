@@ -1,0 +1,1 @@
+SELECT * FROM corridas.corrida WHERE destino LIKE 'Av. Brasil%'

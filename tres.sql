@@ -1,0 +1,1 @@
+SELECT * FROM corridas.corrida 	WHERE forma_pagamento = 'DIN' OR forma_pagamento = 'CTA';
